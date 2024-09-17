@@ -1,0 +1,20 @@
+ATIVIDADE:
+O Sistema de Gerenciamento de Bancos de Dados é um conjunto de programas que serve para gerenciar um ou mais bancos de dados. Sendo assim, pesquise sobre os bancos de dados mais utilizados no mercado de trabalho e descreva dois deles.
+
+ORACLE*
+O Oracle Database é o sistema de gestão de banco de dados mais utilizado no mundo. Trabalha com a linguagem SQL, e garante a segurança e diversos recursos para seus clientes e usuários.
+
+Uma das vantagens desse modelo é a facilidade para ser instalado nas mais diversas plataformas, sendo compatível com BIM AIX, IBM VMS, Windows, Linux, Unix e HP/UX.
+
+No entanto, é interessante investir em um bom hardware para que o desempenho não seja prejudicado.
+
+Outra vantagem do Oracle é a sua documentação. Ela é extremamente detalhada e, por isso, os desenvolvedores terão muito mais conhecimento dos recursos disponíveis na plataforma.
+
+Além disso, o Oracle oferece recursos de segurança e performance que garantem a qualidade do trabalho e a tranquilidade dos usuários, se tornando a melhor alternativa para grandes empresas ou negócios que possuem requisitos mais complexos.
+
+MySQL*
+O MySQL é um banco de dados relacional que pertence à Oracle. Uma das características mais marcantes desse modelo é o fato de se tratar de um Open Source. Utiliza a linguagem SQL e funciona com as licenças de software comercial e livre.
+
+O MySQL se destaca pelo seu fácil uso e uma estrutura de segurança e confiabilidade que permitiu que empresas e aplicativos baseados na internet utilizassem seus recursos. Dentre os principais usuários estão o Google, Facebook, Youtube, Twitter e NASA.
+
+Uma outra vantagem é a fácil integração com o PHP dos pacotes de hospedagem que são comumente oferecidos.
